@@ -1,6 +1,6 @@
 # huffman-deno
 
-Super simple implementation of the [Huffman algorithm](https://www.programiz.com/dsa/huffman-coding) in Deno.
+Super simple implementation of the [Huffman algorithm](https://www.programiz.com/dsa/huffman-coding) in TypeScript.
 
 ## Requirements
 
