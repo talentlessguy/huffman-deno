@@ -4,7 +4,7 @@ Super simple implementation of the [Huffman algorithm](https://www.programiz.com
 
 ## Requirements
 
-[Deno 1.25+](https://deno.land/manual@v1.25.1/getting_started/installation).
+[Deno 1.25+](https://deno.land/manual@v1.25.1/getting_started/installation)
 
 ## Example
 
