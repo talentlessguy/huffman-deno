@@ -1,4 +1,4 @@
-import { assertEquals, assert } from 'https://deno.land/std@0.154.0/testing/asserts.ts'
+import { assertEquals, assert } from 'https://deno.land/std@0.185.0/testing/asserts.ts'
 import { Huffman } from './index.ts'
 
 const sampleText = `
